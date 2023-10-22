@@ -7,6 +7,7 @@ format:
 	black *.py mylib/*.py
 lint:
 	#flake8 and #pylint 
+	pylint --disable=R,C *.py
 test:
 	#test
 deploy:
