@@ -6,3 +6,5 @@
 4. Setup Continuous Integration, i.e. check code for issues like errors
    ![lint-failue](https://github.com/fahernkhan/AWS-Microservices-with-Python-and-FastAPI/assets/128980804/5a2ee682-ed9d-4f16-a9ea-f49427e6c246)
 
+5.Build cli using Python Fire library " ./cli-fire.py --help " to test logic 
+
